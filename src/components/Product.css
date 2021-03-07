@@ -1,0 +1,44 @@
+.product{
+    padding: 20px;
+    color:rgb(0, 110, 255);
+    margin-top:-50px;
+}
+
+.product_info{
+
+    display:flex;
+    justify-content: space-between;
+    margin-top:50px;
+  
+}
+.product_specs{
+
+    background-color: honeydew;
+    margin-left:30px;
+    padding:20px;
+}
+
+.product_img{
+
+    margin-top:30px;
+    width:900px;
+ 
+}
+.product_button{
+
+    background-color: rgb(19, 192, 19);
+    outline:none;
+    text-decoration: none;
+    border:none;
+    font-size:18px;
+    color:white;
+    padding:10px;
+    margin-top:10px;
+}
+
+a{
+    target-name:new;
+    target-new:blank;
+}
+
+

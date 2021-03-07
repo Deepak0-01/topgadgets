@@ -1,0 +1,40 @@
+.imglayout{
+  
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  color:white;
+  top:0px;
+  bottom:26px;
+  left:0px;
+  right:0px;
+  font-size:40px;
+  
+ 
+
+  
+
+}
+
+.imagelayout_layout{
+
+    z-index:-2;
+    padding:10px;
+}
+
+.imglayout:hover{
+
+    z-index: 1;
+    background-color: rgb(71, 58, 57);
+    opacity:0.8;
+}
+
+.imagelayout_layout:hover{
+
+    z-index:9;
+}
+
+
+

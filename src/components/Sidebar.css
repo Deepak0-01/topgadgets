@@ -1,0 +1,24 @@
+.sidebar{
+
+    height:80px;
+    width:100%;
+    background-color: rgb(13, 212, 152);
+    color:white;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.sidebar h1{
+
+    text-indent: 20px;
+   margin-top:auto;
+   margin-bottom: auto;
+}
+
+a{
+
+    text-decoration: none;
+    outline: none;
+    color:white;
+}

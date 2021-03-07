@@ -19,6 +19,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
+        path: `${__dirname}/src/images`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
